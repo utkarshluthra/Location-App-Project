@@ -9,3 +9,5 @@
 5. To create a chatting section where the user can connect to his contacts
 6. To view the last locations visited
 7. To create a help and feedback form for the user
+8. To create a system to keep messages encrypted between users
+9. To create a database for all the users and connect it with frontend
